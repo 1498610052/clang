@@ -1,0 +1,1 @@
+tools/clang/include/clang/AST/AbstractTypeReader.inc: /root/tc-build/llvm-project/clang/include/clang/AST/PropertiesBase.td /root/tc-build/llvm-project/clang/include/clang/Basic/ASTNode.td /root/tc-build/llvm-project/clang/include/clang/Basic/TypeNodes.td
